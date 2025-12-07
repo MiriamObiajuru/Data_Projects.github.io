@@ -1,86 +1,90 @@
 # Data Projects Portfolio
 
-This repository contains a collection of data analytics and data science projects developed to demonstrate practical skills in data cleaning, exploratory data analysis (EDA), visualization, and applied analytics using real-world datasets.
-
-These projects were completed as part of **CMPT 3830 (Work Integrated Learning I)** and reflect structured analytical thinking, documentation, and problem-solving using Python.
+This repository contains a collection of applied data analytics and data science projects demonstrating exploratory data analysis (EDA), statistical modeling, and predictive analytics.  
+The projects were developed as part of **CMPT 3830 (Work Integrated Learning I)** and are intended to showcase practical problem-solving skills, clear analysis, and reproducible workflows.
 
 ---
 
-## Project Overview
+##  Projects Overview
 
-### 1. Finance Data Analysis
-**File:** `Finance_Data_Analysis.ipynb`  
-- Performed exploratory data analysis on financial datasets  
-- Cleaned and prepared raw data for analysis  
-- Analyzed trends, distributions, and key financial indicators  
-- Used Pandas, NumPy, and Matplotlib for insights and visualization  
+### 1. EDA, Feature Analysis, and Prediction for Diabetes
+**File:** `EDA_Feature_analysis_and_predictions_for_Diabetes.ipynb`  
+- Exploratory analysis of health indicators related to diabetes  
+- Feature engineering and correlation analysis  
+- Predictive modeling for diabetes outcome classification  
+- Evaluation using classification metrics
 
-**Key Skills:**  
-Data cleaning, EDA, descriptive statistics, financial analysis
+**Skills:** EDA, feature selection, classification models, model evaluation
 
 ---
 
 ### 2. Healthcare Analytics
 **File:** `Healthcare_Analytics.ipynb`  
-- Analyzed healthcare-related data to uncover patterns and insights  
-- Handled missing values and categorical variables  
-- Created visualizations to support findings  
+- Analysis of healthcare-related datasets  
+- Investigation of patient trends and outcome variables  
+- Data cleaning, visualization, and insights generation  
 
-**Key Skills:**  
-Healthcare analytics, data preprocessing, visualization, interpretation
+**Skills:** Data cleaning, visualization, healthcare analytics
 
 ---
 
 ### 3. NPRI Environmental Analysis
 **File:** `NPRI_Analysis.ipynb`  
-- Worked with the National Pollutant Release Inventory (NPRI) dataset  
-- Explored pollutant trends by location and industry  
-- Aggregated and summarized large datasets to extract environmental insights  
+- Analysis of the National Pollutant Release Inventory (NPRI) dataset  
+- Identification of emission patterns across locations  
+- Aggregation and trend analysis for environmental reporting  
 
-**Key Skills:**  
-Environmental data analysis, aggregation, feature engineering
-
----
-
-### 4. YMCA Membership Analysis
-**File:** `YMCA_Analysis.ipynb`  
-- Analyzed YMCA membership and participation data  
-- Identified patterns related to engagement and outcomes  
-- Applied classification concepts and preprocessing steps  
-
-**Key Skills:**  
-Predictive analytics, data transformation, model preparation
+**Skills:** Aggregation, environmental data analysis, trend analysis
 
 ---
 
-### 5. Sales & Customer Patterns (EDA)
+### 4. Regression Modelling Using Insurance Dataset
+**File:** `Regression_Modelling_using_Insurance_Dataset.ipynb`  
+- Exploratory analysis of insurance cost drivers  
+- Regression modeling to predict insurance charges  
+- Interpretation of model coefficients and performance  
+
+**Skills:** Regression analysis, statistical modeling, interpretation
+
+---
+
+### 5. Sales and Customer Pattern Analysis
 **File:** `Simple_EDA_Sales_and_Customer_Patterns.ipynb`  
-- Conducted exploratory data analysis on sales and customer behavior  
-- Visualized purchasing patterns and trends  
-- Summarized actionable business insights  
+- Exploratory analysis of sales and customer datasets  
+- Identification of purchasing patterns and trends  
+- Business-focused insights derived from data  
 
-**Key Skills:**  
-EDA, business analytics, data visualization, storytelling with data
+**Skills:** Business analytics, EDA, customer behavior analysis
+
+---
+
+### 6. YMCA Membership Analysis
+**File:** `YMCA_Analysis.ipynb`  
+- Analysis of YMCA membership and participation data  
+- Feature engineering and outcome analysis  
+- Insights to support retention and engagement strategies  
+
+**Skills:** Data transformation, applied analytics, reporting, prediction
 
 ---
 
 ##  Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib & Seaborn  
-- Jupyter Notebook  
-- Scikit-learn (where applicable)
+- **Python**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **Scikit-learn**
+- **Jupyter Notebook**
 
 ---
 
-##  Key Learning Outcomes
-- Structured data analysis workflows  
-- Real-world data cleaning and preparation  
-- Translating data into meaningful insights  
-- Clear documentation and reproducible analysis  
+##  Learning Outcomes
+- Applied real-world datasets to analytical problems  
+- Built reproducible analytics pipelines  
+- Translated raw data into actionable insights  
+- Practiced model building, evaluation, and interpretation  
 
 ---
+
 
 ## Contact
 For questions or collaboration opportunities:
@@ -90,4 +94,6 @@ For questions or collaboration opportunities:
 
 ---
 
-⭐ *Thank you for reviewing my data analytics portfolio.*
+ *Thank you for reviewing my data analytics portfolio.*
+CMPT 3830 – Work Integrated Learning I
+
